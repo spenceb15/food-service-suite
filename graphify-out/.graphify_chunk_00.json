@@ -1,0 +1,1075 @@
+{
+  "nodes": [
+    {
+      "id": "api_items_get",
+      "label": "GET /api/items",
+      "file_type": "code",
+      "source_file": "app/api/items/route.ts",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_items_post",
+      "label": "POST /api/items",
+      "file_type": "code",
+      "source_file": "app/api/items/route.ts",
+      "source_location": "line 37",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_locations_get",
+      "label": "GET /api/locations",
+      "file_type": "code",
+      "source_file": "app/api/locations/route.ts",
+      "source_location": "line 24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_locations_post",
+      "label": "POST /api/locations",
+      "file_type": "code",
+      "source_file": "app/api/locations/route.ts",
+      "source_location": "line 50",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_orders_get",
+      "label": "GET /api/orders",
+      "file_type": "code",
+      "source_file": "app/api/orders/route.ts",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_orders_post",
+      "label": "POST /api/orders",
+      "file_type": "code",
+      "source_file": "app/api/orders/route.ts",
+      "source_location": "line 56",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_receipts_get",
+      "label": "GET /api/receipts",
+      "file_type": "code",
+      "source_file": "app/api/receipts/route.ts",
+      "source_location": "line 16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_receipts_post",
+      "label": "POST /api/receipts",
+      "file_type": "code",
+      "source_file": "app/api/receipts/route.ts",
+      "source_location": "line 50",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "approve_route_patch",
+      "label": "PATCH /api/transfers/[id]/approve",
+      "file_type": "code",
+      "source_file": "app/api/transfers/[id]/approve/route.ts",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "receive_route_patch",
+      "label": "PATCH /api/transfers/[id]/receive",
+      "file_type": "code",
+      "source_file": "app/api/transfers/[id]/receive/route.ts",
+      "source_location": "line 13",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ship_route_patch",
+      "label": "PATCH /api/transfers/[id]/ship",
+      "file_type": "code",
+      "source_file": "app/api/transfers/[id]/ship/route.ts",
+      "source_location": "line 13",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_transfers_get",
+      "label": "GET /api/transfers",
+      "file_type": "code",
+      "source_file": "app/api/transfers/route.ts",
+      "source_location": "line 20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_transfers_post",
+      "label": "POST /api/transfers",
+      "file_type": "code",
+      "source_file": "app/api/transfers/route.ts",
+      "source_location": "line 62",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_users_get",
+      "label": "GET /api/users",
+      "file_type": "code",
+      "source_file": "app/api/users/route.ts",
+      "source_location": "line 16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_users_post",
+      "label": "POST /api/users",
+      "file_type": "code",
+      "source_file": "app/api/users/route.ts",
+      "source_location": "line 32",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_vendors_get",
+      "label": "GET /api/vendors",
+      "file_type": "code",
+      "source_file": "app/api/vendors/route.ts",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_vendors_post",
+      "label": "POST /api/vendors",
+      "file_type": "code",
+      "source_file": "app/api/vendors/route.ts",
+      "source_location": "line 37",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "app_layout_rootlayout",
+      "label": "RootLayout",
+      "file_type": "code",
+      "source_file": "app/layout.tsx",
+      "source_location": "line 9",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "app_page_home",
+      "label": "Home (page.tsx)",
+      "file_type": "code",
+      "source_file": "app/page.tsx",
+      "source_location": "line 3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_serviceresponse_serviceerrorresponse",
+      "label": "serviceErrorResponse",
+      "file_type": "code",
+      "source_file": "lib/api/serviceResponse.ts",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "auth_stub_getsession",
+      "label": "getSession (auth stub)",
+      "file_type": "code",
+      "source_file": "lib/auth/stub.ts",
+      "source_location": "line 15",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_items_getallitems",
+      "label": "getAllItems",
+      "file_type": "code",
+      "source_file": "lib/data/items.ts",
+      "source_location": "line 59",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_items_createitem",
+      "label": "createItem",
+      "file_type": "code",
+      "source_file": "lib/data/items.ts",
+      "source_location": "line 64",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_items_rowtoitem",
+      "label": "rowToItem",
+      "file_type": "code",
+      "source_file": "lib/data/items.ts",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_items_itemtorow",
+      "label": "itemToRow",
+      "file_type": "code",
+      "source_file": "lib/data/items.ts",
+      "source_location": "line 40",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_laborhours_getalllaborhours",
+      "label": "getAllLaborHours",
+      "file_type": "code",
+      "source_file": "lib/data/laborHours.ts",
+      "source_location": "line 36",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_laborhours_createlaborhours",
+      "label": "createLaborHours",
+      "file_type": "code",
+      "source_file": "lib/data/laborHours.ts",
+      "source_location": "line 41",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_locations_getalllocations",
+      "label": "getAllLocations",
+      "file_type": "code",
+      "source_file": "lib/data/locations.ts",
+      "source_location": "line 50",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_locations_createlocation",
+      "label": "createLocation",
+      "file_type": "code",
+      "source_file": "lib/data/locations.ts",
+      "source_location": "line 55",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_lots_getalllots",
+      "label": "getAllLots",
+      "file_type": "code",
+      "source_file": "lib/data/lots.ts",
+      "source_location": "line 44",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_lots_createlot",
+      "label": "createLot",
+      "file_type": "code",
+      "source_file": "lib/data/lots.ts",
+      "source_location": "line 49",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_lots_updatelot",
+      "label": "updateLot",
+      "file_type": "code",
+      "source_file": "lib/data/lots.ts",
+      "source_location": "line 61",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_lots_rowtolot",
+      "label": "rowToLot",
+      "file_type": "code",
+      "source_file": "lib/data/lots.ts",
+      "source_location": "line 14",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_orders_getallorders",
+      "label": "getAllOrders",
+      "file_type": "code",
+      "source_file": "lib/data/orders.ts",
+      "source_location": "line 54",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_orders_createorder",
+      "label": "createOrder",
+      "file_type": "code",
+      "source_file": "lib/data/orders.ts",
+      "source_location": "line 59",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_orders_createorderline",
+      "label": "createOrderLine",
+      "file_type": "code",
+      "source_file": "lib/data/orders.ts",
+      "source_location": "line 98",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_orders_getallorderlines",
+      "label": "getAllOrderLines",
+      "file_type": "code",
+      "source_file": "lib/data/orders.ts",
+      "source_location": "line 93",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_location_scoping",
+      "label": "Location-Scoped Access Control Pattern",
+      "file_type": "rationale",
+      "source_file": "app/api/locations/route.ts",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_transfer_state_machine",
+      "label": "Transfer State Machine (requested→approved→in_transit→received)",
+      "file_type": "rationale",
+      "source_file": "app/api/transfers/[id]/approve/route.ts",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_dev_auth_stub",
+      "label": "Development Auth Stub (server-only, dev/test only)",
+      "file_type": "rationale",
+      "source_file": "lib/auth/stub.ts",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_sheets_race_condition",
+      "label": "Google Sheets Non-Transactional Race Condition Risk",
+      "file_type": "rationale",
+      "source_file": "lib/data/lots.ts",
+      "source_location": "line 55",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "api_items_get",
+      "target": "auth_stub_getsession",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/items/route.ts",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "api_items_get",
+      "target": "data_items_getallitems",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/items/route.ts",
+      "source_location": "line 22",
+      "weight": 1.0
+    },
+    {
+      "source": "api_items_get",
+      "target": "api_serviceresponse_serviceerrorresponse",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/items/route.ts",
+      "source_location": "line 29",
+      "weight": 1.0
+    },
+    {
+      "source": "api_items_post",
+      "target": "auth_stub_getsession",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/items/route.ts",
+      "source_location": "line 39",
+      "weight": 1.0
+    },
+    {
+      "source": "api_items_post",
+      "target": "data_items_createitem",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/items/route.ts",
+      "source_location": "line 81",
+      "weight": 1.0
+    },
+    {
+      "source": "api_items_post",
+      "target": "api_serviceresponse_serviceerrorresponse",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/items/route.ts",
+      "source_location": "line 110",
+      "weight": 1.0
+    },
+    {
+      "source": "api_locations_get",
+      "target": "auth_stub_getsession",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/locations/route.ts",
+      "source_location": "line 26",
+      "weight": 1.0
+    },
+    {
+      "source": "api_locations_get",
+      "target": "data_locations_getalllocations",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/locations/route.ts",
+      "source_location": "line 29",
+      "weight": 1.0
+    },
+    {
+      "source": "api_locations_get",
+      "target": "api_serviceresponse_serviceerrorresponse",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/locations/route.ts",
+      "source_location": "line 41",
+      "weight": 1.0
+    },
+    {
+      "source": "api_locations_post",
+      "target": "auth_stub_getsession",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/locations/route.ts",
+      "source_location": "line 52",
+      "weight": 1.0
+    },
+    {
+      "source": "api_locations_post",
+      "target": "data_locations_createlocation",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/locations/route.ts",
+      "source_location": "line 82",
+      "weight": 1.0
+    },
+    {
+      "source": "api_locations_post",
+      "target": "api_serviceresponse_serviceerrorresponse",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/locations/route.ts",
+      "source_location": "line 92",
+      "weight": 1.0
+    },
+    {
+      "source": "api_orders_get",
+      "target": "auth_stub_getsession",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/orders/route.ts",
+      "source_location": "line 23",
+      "weight": 1.0
+    },
+    {
+      "source": "api_orders_get",
+      "target": "data_orders_getallorders",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/orders/route.ts",
+      "source_location": "line 26",
+      "weight": 1.0
+    },
+    {
+      "source": "api_orders_get",
+      "target": "api_serviceresponse_serviceerrorresponse",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/orders/route.ts",
+      "source_location": "line 39",
+      "weight": 1.0
+    },
+    {
+      "source": "api_orders_post",
+      "target": "auth_stub_getsession",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/orders/route.ts",
+      "source_location": "line 58",
+      "weight": 1.0
+    },
+    {
+      "source": "api_orders_post",
+      "target": "data_orders_createorder",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/orders/route.ts",
+      "source_location": "line 119",
+      "weight": 1.0
+    },
+    {
+      "source": "api_orders_post",
+      "target": "data_orders_createorderline",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/orders/route.ts",
+      "source_location": "line 132",
+      "weight": 1.0
+    },
+    {
+      "source": "api_orders_post",
+      "target": "api_serviceresponse_serviceerrorresponse",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/orders/route.ts",
+      "source_location": "line 144",
+      "weight": 1.0
+    },
+    {
+      "source": "api_receipts_get",
+      "target": "auth_stub_getsession",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/receipts/route.ts",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "api_receipts_get",
+      "target": "api_serviceresponse_serviceerrorresponse",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/receipts/route.ts",
+      "source_location": "line 33",
+      "weight": 1.0
+    },
+    {
+      "source": "api_receipts_post",
+      "target": "auth_stub_getsession",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/receipts/route.ts",
+      "source_location": "line 52",
+      "weight": 1.0
+    },
+    {
+      "source": "api_receipts_post",
+      "target": "api_serviceresponse_serviceerrorresponse",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/receipts/route.ts",
+      "source_location": "line 68",
+      "weight": 1.0
+    },
+    {
+      "source": "approve_route_patch",
+      "target": "auth_stub_getsession",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/transfers/[id]/approve/route.ts",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "approve_route_patch",
+      "target": "api_serviceresponse_serviceerrorresponse",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/transfers/[id]/approve/route.ts",
+      "source_location": "line 22",
+      "weight": 1.0
+    },
+    {
+      "source": "receive_route_patch",
+      "target": "auth_stub_getsession",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/transfers/[id]/receive/route.ts",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "receive_route_patch",
+      "target": "api_serviceresponse_serviceerrorresponse",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/transfers/[id]/receive/route.ts",
+      "source_location": "line 23",
+      "weight": 1.0
+    },
+    {
+      "source": "ship_route_patch",
+      "target": "auth_stub_getsession",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/transfers/[id]/ship/route.ts",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "ship_route_patch",
+      "target": "api_serviceresponse_serviceerrorresponse",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/transfers/[id]/ship/route.ts",
+      "source_location": "line 23",
+      "weight": 1.0
+    },
+    {
+      "source": "api_transfers_get",
+      "target": "auth_stub_getsession",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/transfers/route.ts",
+      "source_location": "line 22",
+      "weight": 1.0
+    },
+    {
+      "source": "api_transfers_get",
+      "target": "api_serviceresponse_serviceerrorresponse",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/transfers/route.ts",
+      "source_location": "line 44",
+      "weight": 1.0
+    },
+    {
+      "source": "api_transfers_post",
+      "target": "auth_stub_getsession",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/transfers/route.ts",
+      "source_location": "line 64",
+      "weight": 1.0
+    },
+    {
+      "source": "api_transfers_post",
+      "target": "api_serviceresponse_serviceerrorresponse",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/transfers/route.ts",
+      "source_location": "line 80",
+      "weight": 1.0
+    },
+    {
+      "source": "api_users_get",
+      "target": "auth_stub_getsession",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/users/route.ts",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "api_users_get",
+      "target": "api_serviceresponse_serviceerrorresponse",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/users/route.ts",
+      "source_location": "line 23",
+      "weight": 1.0
+    },
+    {
+      "source": "api_users_post",
+      "target": "auth_stub_getsession",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/users/route.ts",
+      "source_location": "line 34",
+      "weight": 1.0
+    },
+    {
+      "source": "api_users_post",
+      "target": "api_serviceresponse_serviceerrorresponse",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/users/route.ts",
+      "source_location": "line 84",
+      "weight": 1.0
+    },
+    {
+      "source": "api_vendors_get",
+      "target": "auth_stub_getsession",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/vendors/route.ts",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "api_vendors_get",
+      "target": "api_serviceresponse_serviceerrorresponse",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/vendors/route.ts",
+      "source_location": "line 28",
+      "weight": 1.0
+    },
+    {
+      "source": "api_vendors_post",
+      "target": "auth_stub_getsession",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/vendors/route.ts",
+      "source_location": "line 39",
+      "weight": 1.0
+    },
+    {
+      "source": "api_vendors_post",
+      "target": "api_serviceresponse_serviceerrorresponse",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/api/vendors/route.ts",
+      "source_location": "line 78",
+      "weight": 1.0
+    },
+    {
+      "source": "data_items_getallitems",
+      "target": "data_items_rowtoitem",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "lib/data/items.ts",
+      "source_location": "line 61",
+      "weight": 1.0
+    },
+    {
+      "source": "data_items_createitem",
+      "target": "data_items_itemtorow",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "lib/data/items.ts",
+      "source_location": "line 66",
+      "weight": 1.0
+    },
+    {
+      "source": "data_lots_getalllots",
+      "target": "data_lots_rowtolot",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "lib/data/lots.ts",
+      "source_location": "line 46",
+      "weight": 1.0
+    },
+    {
+      "source": "data_lots_updatelot",
+      "target": "data_lots_rowtolot",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "lib/data/lots.ts",
+      "source_location": "line 71",
+      "weight": 1.0
+    },
+    {
+      "source": "concept_sheets_race_condition",
+      "target": "data_lots_updatelot",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "lib/data/lots.ts",
+      "source_location": "line 55",
+      "weight": 1.0
+    },
+    {
+      "source": "concept_dev_auth_stub",
+      "target": "auth_stub_getsession",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "lib/auth/stub.ts",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "concept_transfer_state_machine",
+      "target": "approve_route_patch",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "app/api/transfers/[id]/approve/route.ts",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_transfer_state_machine",
+      "target": "ship_route_patch",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "app/api/transfers/[id]/ship/route.ts",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_transfer_state_machine",
+      "target": "receive_route_patch",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "app/api/transfers/[id]/receive/route.ts",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_location_scoping",
+      "target": "api_locations_get",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "app/api/locations/route.ts",
+      "source_location": "line 31",
+      "weight": 1.0
+    },
+    {
+      "source": "api_receipts_get",
+      "target": "concept_location_scoping",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "app/api/receipts/route.ts",
+      "source_location": "line 27",
+      "weight": 1.0
+    },
+    {
+      "source": "api_orders_get",
+      "target": "concept_location_scoping",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "app/api/orders/route.ts",
+      "source_location": "line 30",
+      "weight": 1.0
+    },
+    {
+      "source": "api_transfers_get",
+      "target": "concept_location_scoping",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "app/api/transfers/route.ts",
+      "source_location": "line 30",
+      "weight": 1.0
+    },
+    {
+      "source": "data_items_getallitems",
+      "target": "data_locations_getalllocations",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "lib/data/items.ts",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "data_lots_createlot",
+      "target": "data_items_createitem",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "lib/data/lots.ts",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "transfer_lifecycle_endpoints",
+      "label": "Transfer Lifecycle API Endpoints (request→approve→ship→receive)",
+      "nodes": [
+        "api_transfers_post",
+        "approve_route_patch",
+        "ship_route_patch",
+        "receive_route_patch"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "app/api/transfers/route.ts"
+    },
+    {
+      "id": "api_auth_error_pattern",
+      "label": "Shared API Handler Pattern (getSession + requireRole + serviceErrorResponse)",
+      "nodes": [
+        "auth_stub_getsession",
+        "api_serviceresponse_serviceerrorresponse",
+        "api_items_get",
+        "api_locations_get",
+        "api_orders_get",
+        "api_receipts_get",
+        "api_transfers_get",
+        "api_users_get",
+        "api_vendors_get"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "app/api/items/route.ts"
+    },
+    {
+      "id": "data_layer_sheets_access",
+      "label": "Data Layer Modules (Google Sheets via getRows/appendRow pattern)",
+      "nodes": [
+        "data_items_getallitems",
+        "data_items_createitem",
+        "data_locations_getalllocations",
+        "data_locations_createlocation",
+        "data_lots_getalllots",
+        "data_lots_createlot",
+        "data_lots_updatelot",
+        "data_orders_getallorders",
+        "data_orders_createorder",
+        "data_laborhours_getalllaborhours",
+        "data_laborhours_createlaborhours"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "lib/data/items.ts"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

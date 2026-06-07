@@ -1,0 +1,24 @@
+# Secrets — never commit
+.env
+.env.*
+*.local
+**/credentials*
+**/service-account*.json
+
+# Dependencies & build
+node_modules/
+.next/
+out/
+dist/
+coverage/
+
+# Test output
+test-results/
+playwright-report/
+playwright/.cache/
+
+# OS / editor
+.DS_Store
+*.log
+.idea/
+.vscode/
